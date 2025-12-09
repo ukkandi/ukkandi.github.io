@@ -17,3 +17,6 @@ I’m using my early years to develop skill, velocity, and a public track record
 - GitHub: https://github.com/ukkandi 
 - Instagram: https://instagram.com/ukkandii 
 - Email: kandi.codes.studio@gmail.com
+
+Next Project:
+# Build a browser extension that automatically generates persistent context keys from AI chats (because models are stateless), stores them, and re-injects them intelligently into future conversations.
