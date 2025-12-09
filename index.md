@@ -1,11 +1,11 @@
 # Uday Kandi
 
-I’m 18 and focused on building tools that improve human wellbeing, especially at the intersection of healthcare, generative AI, and memory systems. My work centers on experiments, hackathon projects, and early prototypes that test how emerging tech can create real-world impact. Everything I build is aimed at helping people first — the projects matter more than the ego.
+I’m 18 and focused on building tools that improve human wellbeing, especially at the intersection of healthcare, generative AI, and memory systems. My work centers on experiments, hackathon projects, and early prototypes that test how emerging tech can create real-world impact. Everything I build is aimed at helping people first. The projects matter more than the ego.
 
 ## Projects
 
 ### Project / Hackathon Work
-- **LockedIN** — one line about what it does.  
+- **LockedIN** — Behavioral-matching for Gymgoers.  
   [GitHub Repo](https://github.com/ukkandi/Gymsnap) • [Devpost](https://devpost.com/software/lockedin-4wopvt)
 
 (More will be added as the work grows.)
